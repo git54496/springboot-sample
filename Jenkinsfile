@@ -14,8 +14,8 @@ pipeline {
         GITHUB_CREDENTIAL_ID = 'github-id'
         KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
         REGISTRY = 'docker.io'
-        DOCKERHUB_NAMESPACE = 'YOUR_DOCKERHUB_NAMESPACE'
-        GITHUB_ACCOUNT = 'YOUR_GITHUB_ACCOUNT'
+        DOCKERHUB_NAMESPACE = 'doc54496'
+        GITHUB_ACCOUNT = 'git54496'
         APP_NAME = 'springboot-sample'
     }
 
